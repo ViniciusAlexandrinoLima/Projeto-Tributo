@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(184, 181, 181);
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+.imagem img {
+    width: 700px;
+    height: 500px;
+}
+
+figure {
+    border: 3px solid #FFF;
+    padding: 4px;
+    margin: auto;
+}
+
+figcaption {
+    background-color: #FFF;
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+.carreira {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cinema {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wikipedia a{
+    text-decoration: none;
+    color: black;
+   cursor: pointer;
+}
+
+.wikipedia a:hover {
+    color: rgb(240, 12, 12);
+}
+
